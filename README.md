@@ -18,7 +18,7 @@ This project implements **Camouflaged Object Detection (COD)** using a **U-Net s
 ---
 
 ## 📂 Dataset
-We use the [CAMO Dataset](https://www.kaggle.com/datasets/ivanomelchenkoim11/camo-dataset).
+[CAMO Dataset](https://www.kaggle.com/datasets/ivanomelchenkoim11/camo-dataset).
 
 ---
 
