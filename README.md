@@ -1,4 +1,4 @@
-# 🦎 Camouflaged Object Detection using Deep Learning
+# 🦎 Camouflaged Object Detection using Deep Learning and Computer Vision
 
 ## 📑 Technical Seminar Presentations
 - Phase I: ![Technical Seminar Phase I](reports/Technical_Seminar_Phase_I.pdf)
